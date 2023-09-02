@@ -1,3 +1,7 @@
+Name : Abdullah Numan Shakil.</br>
+Dept. of Computer Science & Engineering.</br>
+University of Rajshahi.</br>
+
 # Here is the functional view of Picture-Story-Time App.
 
 ## Home Page
